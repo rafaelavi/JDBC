@@ -1,3 +1,1 @@
-# JDBC
-
 # Curso JDBC - projeto
